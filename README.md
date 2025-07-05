@@ -2,9 +2,9 @@
 
 ### 🧑‍💻 Author: Andika Insan Patria
 
-📌 NRP: 5026221211
-📚 Mata Kuliah: Pengolahan Bahasa Alami (PBA)
-🏫 Institut Teknologi Sepuluh Nopember (ITS)
+#### 📌 NRP: 5026221211
+#### 📚 Mata Kuliah: Pengolahan Bahasa Alami (PBA)
+#### 🏫 Institut Teknologi Sepuluh Nopember (ITS)
 
 ---
 
